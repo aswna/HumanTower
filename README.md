@@ -1,4 +1,5 @@
 HumanTower
 ==========
 
-TDD implementation of the Human Tower presented on craftsmanship.sv.cmu.edu.
+TDD implementation of the Human Tower presented on
+http://craftsmanship.sv.cmu.edu/katas/human-tower
